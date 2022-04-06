@@ -1,0 +1,36 @@
+.list-item {
+  font-size: 0.5rem;
+  border: 0.1rem solid #d7dae6;
+  max-width: 100%;
+  margin: 0.5rem;
+  margin-bottom: 1.5rem;
+  padding: 0.3rem;
+  border-radius: 0.5rem;
+}
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.question {
+  color: #52606d;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.btn {
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.horizontal-line {
+  color: #e4e7eb;
+}
+
+.answer {
+  font-size: 0.8rem;
+  color: #9aa5b1;
+}
